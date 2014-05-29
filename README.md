@@ -28,4 +28,4 @@ Clone the Repo and add you own branch Modify the code and submit a Pull Request.
 Or Hit me up on irc.freenode.net #linuxdistrocommunity.
 
 
-[1]: https://bbs.linuxdistrocommunity.com
+[1]: https://bbs.linuxdistrocommunity.com/showthread.php?tid=2139
