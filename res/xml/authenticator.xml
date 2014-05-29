@@ -21,7 +21,7 @@
 <!-- for the Account Manager. -->
 
 <account-authenticator xmlns:android="http://schemas.android.com/apk/res/android"
-    android:accountType="org.mediagoblin.android"
+    android:accountType="org.LinuxdistroCommunity.android"
     android:icon="@drawable/mgicon"
     android:smallIcon="@drawable/mgicon"
     android:label="@string/account_type_label"

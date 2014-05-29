@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.mediagoblin.android"
+    package="org.LinuxdistroCommunity.android"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -23,7 +23,7 @@
 
         <!-- The authenticator service -->
         <service
-            android:name="org.mediagoblin.android.authenticator.AuthenticationService"
+            android:name="org.LinuxdistroCommunity.android.authenticator.AuthenticationService"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.accounts.AccountAuthenticator" />
@@ -35,7 +35,7 @@
         </service>
 
         <activity
-            android:name="org.mediagoblin.android.MainActivity"
+            android:name="org.LinuxdistroCommunity.android.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -44,12 +44,12 @@
         </activity>
 
         <activity
-            android:name="org.mediagoblin.android.LoginActivity"
+            android:name="org.LinuxdistroCommunity.android.LoginActivity"
             android:icon="@drawable/mgicon"
             android:label="@string/app_name" >
         </activity>
 
-        <activity android:name="org.mediagoblin.android.SendImage"
+        <activity android:name="org.LinuxdistroCommunity.android.SendImage"
                   android:label="@string/app_name"
                   android:icon="@drawable/mgicon">
             <intent-filter>

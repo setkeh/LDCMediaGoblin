@@ -1,7 +1,7 @@
 <resources>
 
     <!-- Strings related to login -->
-    <string name="prompt_server">https://example.com</string>
+    <string name="prompt_server">https://linuxdistrocommunity.com</string>
     <string name="action_sign_in_register"><b>Sign in</b> or register</string>
     <string name="action_sign_in_short">Sign in</string>
     <string name="login_intro">MediaGoblin is a free software media publishing platform that anyone can run. To being registering your account, enter the server address.</string>

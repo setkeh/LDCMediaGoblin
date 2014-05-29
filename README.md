@@ -8,7 +8,7 @@ This App is cloned from the Media Goblin Repo
 What Needs to be done:
 ----------------------
 
-Re Branding For LinuxDistroCommunity.
+~~Re Branding For LinuxDistroCommunity.~~ Complete
 
 Enable OAuth on the MediaGoblin Instance.
 
