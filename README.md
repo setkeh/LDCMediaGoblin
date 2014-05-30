@@ -23,9 +23,12 @@ What Can you do to Help ??
 
 Contribute to [The Android App forum.][1]
 
+Report Issues to the [Issue Tracker.][2] 
+
 Clone the Repo and add you own branch Modify the code and submit a Pull Request.
 
 Or Hit me up on irc.freenode.net #linuxdistrocommunity.
 
 
 [1]: https://bbs.linuxdistrocommunity.com/showthread.php?tid=2139
+[2]: https://github.com/setkeh/LDCMediaGoblin/issues
